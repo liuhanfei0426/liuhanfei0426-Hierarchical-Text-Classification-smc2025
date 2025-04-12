@@ -4,7 +4,6 @@
 This repository contains material associated to this [paper](#Citation).
 
 It contains:
-- link to the cognitive pathways extraction dataset we collected. ([link](#The-cognitive-pathways-extraction-dataset))
 - link to code for performing three different strategies for hierarchical text classification on our dataset ([link](#Trained-nnU-net-models))
 
 If you use this material, we would appreciate if you could cite the following reference.
@@ -46,6 +45,10 @@ Both the feature encoder and the decision path can be visualized for explanation
 
 ## References
 
-1. Wan A, Dunlap L, Ho D, et al. NBDT: Neural-backed decision trees[J]. arXiv preprint arXiv:2004.00221, 2020.
+1. Wan A, Dunlap L, Ho D, et al. NBDT: Neural-backed decision trees[J]. arXiv preprint arXiv:2004.00221
+        
+        
+        
+        , 2020.
 2. Fu G, Wang R, Li J, et al. Me-NDT: Neural-backed Decision Tree for visual Explainability of deep Medical models[C]//Medical Imaging with Deep Learning 2021. 2021.
 3. 
